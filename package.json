@@ -1,0 +1,26 @@
+{
+  "name": "marvel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isam14/marvel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isam14/marvel/issues"
+  },
+  "homepage": "https://github.com/isam14/marvel#readme",
+  "dependencies": {
+    "blueimp-md5": "^2.10.0",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "list.js": "^1.5.0"
+  }
+}

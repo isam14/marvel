@@ -1,0 +1,9 @@
+img{
+    width :90px;
+    height: 90px;
+}
+
+.pagination{
+  display:inline-block;
+  padding:5px;
+}
